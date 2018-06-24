@@ -22,10 +22,37 @@
         -webkit-clip-path: circle(50% at 50% 50%);
         clip-path: circle(50% at 50% 50%);
         transform: translateX(-3.1rem) skewX(12deg);
+        position: relative;
     }
 
     &__image {
         height: 100%;
         margin-left: -25%;
+        transform: scale(1.35);
+        transition: all .5s;
     }
+
+    &__caption {
+        position: absolute;
+        bottom: 50%;
+        right: 50%;
+        transform: translate(50%, 120%);
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 1.7rem;
+        opacity: 0;
+        transition: all .5s;
+    }
+
+    &:hover &__image {
+        transform: scale(1);
+        filter: blur(3px) brightness(80%);
+    }
+
+    &:hover &__caption {
+        opacity: 1;
+        transform: translate(50%, 50%);
+    }
+
 }
