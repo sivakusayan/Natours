@@ -4,7 +4,7 @@
     &__photo {
         width: 62%;
         box-shadow: 0 1.5rem 4rem rgba($color-black, .4);
-        border-radius: 2px;
+        border-radius: .3rem;
         position: absolute;
         z-index: 0;
         transition: outline .2s, transform .2s, box-shadow .2s;
