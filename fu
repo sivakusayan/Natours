@@ -1,0 +1,83 @@
+[33mcommit ac5a08ae95ff05fd924512ee80f93da600b72900[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Mon Jun 25 14:52:17 2018 -0400
+
+    Started styling booking form
+
+[33mcommit b05dad643e96ceb96de4ada31833dd5c01aec025[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Sun Jun 24 12:39:48 2018 -0400
+
+    Styled background video
+
+[33mcommit cc65a3d064a2c9e0bb2318b10974ac5af5e146a9[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Sun Jun 24 12:12:15 2018 -0400
+
+    Styled pictures and finished styling story box
+
+[33mcommit f558926b3da8de103358f574059023f7e67ddbc3[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Sun Jun 24 11:44:25 2018 -0400
+
+    Began styling story components in stories section
+
+[33mcommit 0acc908869f23311720b1cd0ffc6c5887f6077cd[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Sat Jun 23 21:43:48 2018 -0400
+
+    Styled back of cards
+
+[33mcommit 37b2cc48c61ee899ce692c5136f1d3de55db279e[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Sat Jun 23 21:14:30 2018 -0400
+
+    Styled front side of the card
+
+[33mcommit 23412ff425b0eb7fa95d0762fffa43ae2423e974[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Fri Jun 22 16:54:30 2018 -0400
+
+    Styled card flips in tours section
+
+[33mcommit 18a0e901cf9cd5640424e428394d349a29a64ce1[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Fri Jun 22 11:43:57 2018 -0400
+
+    Styled features section
+
+[33mcommit d21673d6f316d3d79d1995d3dc2bd1ae7208bddf[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Fri Jun 22 07:49:43 2018 -0400
+
+    Styled image composition in About Us
+
+[33mcommit 20d4aa9de1e2066da414065b5cb577b464441b45[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Thu Jun 21 18:22:58 2018 -0400
+
+    Styled text and links in About Us
+
+[33mcommit a98f9b8c4ff1e8df078e4d8f4a537b0b0de63f4b[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Thu Jun 21 10:13:06 2018 -0400
+
+    Created headingSecondary component
+
+[33mcommit 655d8d3d7ba4bc64ccf51f3c894811c3f3a08033[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Wed Jun 20 22:16:59 2018 -0400
+
+    Added custom grid system
+
+[33mcommit 5db169cf38bfbc13a80f63ba89b5d89e18c05468[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Wed Jun 20 14:37:21 2018 -0400
+
+    Updated hoek module
+
+[33mcommit e702238a839fdd4a98c003266fc8c0e2dbfe34d4[m
+Author: Sayan Sivakumaran <sivakusayan@gmail.com>
+Date:   Wed Jun 20 14:30:16 2018 -0400
+
+    Initial header
