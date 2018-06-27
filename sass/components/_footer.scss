@@ -15,10 +15,11 @@
 
     &__navigation,
     &__copyright {
+        text-align: center;
         border-top: 1px solid $color-grey-dark;
         padding-top: 2rem;
         display: inline-block;
-        width: 80%;
+        width: 90%;
     }
 
     &__copyright {
