@@ -1,6 +1,5 @@
 .card {
     perspective: 150rem;
-    width: 34rem;
     height: 52rem;
     -moz-perspective: 150rem;
     position: relative;
@@ -8,7 +7,7 @@
     //FUNCTIONALITY
 
     &__side {
-        width: 34rem;
+        width: 100%;
         font-size: 2rem;
         height: 100%;
         transition: all .8s ease;

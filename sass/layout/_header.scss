@@ -7,6 +7,14 @@
     
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
     clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+
+    @include respond (tab-land) {
+        clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+    }
+
+    @include respond (tab-port) {
+        clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
+    }
     
     &__logo-box {
         position: absolute;
