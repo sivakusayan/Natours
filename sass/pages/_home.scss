@@ -86,7 +86,6 @@
     &__form {
         width: 40%;
         padding: 4rem 6rem;
-        margin: 0 auto;
         display: inline-block;
 
         @include respond(tab-land) {
@@ -95,6 +94,7 @@
 
         @include respond(tab-port) {
             width: 75%;
+            margin: 0 auto;
         }
     }
 }
